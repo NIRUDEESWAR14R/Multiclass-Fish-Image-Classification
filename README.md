@@ -34,8 +34,11 @@ To classify fish images into one of **11 different fish categories** using deep 
 The dataset consists of fish images organized into training, validation, and test sets.
 
 dataset/
+
 ├── train/
+
 ├── val/
+
 └── test/
 
 
