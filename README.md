@@ -124,7 +124,7 @@ streamlit run src/app.py
 
 ## 📁 Project Structure
 
-![Untitled - Frame 1 (6)](https://github.com/user-attachments/assets/929fac60-417d-45a1-a4d0-82c2201b3dc6)
+![Untitled - Frame 1 (7)](https://github.com/user-attachments/assets/7dfdec89-a7e8-4f11-9245-0f8830116fa3)
 
 
 ---
