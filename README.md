@@ -119,7 +119,7 @@ A Streamlit web application was built to:
 ### ▶️ Run the Streamlit App
 ```bash
 streamlit run src/app.py
-
+```
 ---
 
 ## 📁 Project Structure
@@ -143,7 +143,6 @@ streamlit run src/app.py
 - Cloud deployment (AWS / GCP / Azure)
 
 ---
-
 
 # 👨‍💻 Developer
  
